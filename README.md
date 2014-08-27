@@ -1,7 +1,6 @@
 # Fly Victor Objective-C Style Guide
 
-This style guide outlines the coding conventions of the iOS team at Fly Victor. We welcome your feedback in [issues](https://github.com/flyvictor/objetive-c-style-guide/issues)
-
+This style guide outlines the coding conventions of the iOS team at Fly Victor.
 Forked, and adapted from the [NYT Objective-C Style guide](https://github.com/NYTimes/objective-c-style-guide/).
 
 ## Introduction
